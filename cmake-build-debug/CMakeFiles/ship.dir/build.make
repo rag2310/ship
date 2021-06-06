@@ -88,19 +88,79 @@ CMakeFiles/ship.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ship.dir/main.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rodolfo_pc\CLionProjects\ship\main.cpp -o CMakeFiles\ship.dir\main.cpp.s
 
+CMakeFiles/ship.dir/lib/Ship.cpp.obj: CMakeFiles/ship.dir/flags.make
+CMakeFiles/ship.dir/lib/Ship.cpp.obj: ../lib/Ship.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ship.dir/lib/Ship.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ship.dir\lib\Ship.cpp.obj -c C:\Users\rodolfo_pc\CLionProjects\ship\lib\Ship.cpp
+
+CMakeFiles/ship.dir/lib/Ship.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ship.dir/lib/Ship.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodolfo_pc\CLionProjects\ship\lib\Ship.cpp > CMakeFiles\ship.dir\lib\Ship.cpp.i
+
+CMakeFiles/ship.dir/lib/Ship.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ship.dir/lib/Ship.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rodolfo_pc\CLionProjects\ship\lib\Ship.cpp -o CMakeFiles\ship.dir\lib\Ship.cpp.s
+
+CMakeFiles/ship.dir/lib/Engine.cpp.obj: CMakeFiles/ship.dir/flags.make
+CMakeFiles/ship.dir/lib/Engine.cpp.obj: ../lib/Engine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ship.dir/lib/Engine.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ship.dir\lib\Engine.cpp.obj -c C:\Users\rodolfo_pc\CLionProjects\ship\lib\Engine.cpp
+
+CMakeFiles/ship.dir/lib/Engine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ship.dir/lib/Engine.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodolfo_pc\CLionProjects\ship\lib\Engine.cpp > CMakeFiles\ship.dir\lib\Engine.cpp.i
+
+CMakeFiles/ship.dir/lib/Engine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ship.dir/lib/Engine.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rodolfo_pc\CLionProjects\ship\lib\Engine.cpp -o CMakeFiles\ship.dir\lib\Engine.cpp.s
+
+CMakeFiles/ship.dir/lib/Asteroid.cpp.obj: CMakeFiles/ship.dir/flags.make
+CMakeFiles/ship.dir/lib/Asteroid.cpp.obj: ../lib/Asteroid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ship.dir/lib/Asteroid.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ship.dir\lib\Asteroid.cpp.obj -c C:\Users\rodolfo_pc\CLionProjects\ship\lib\Asteroid.cpp
+
+CMakeFiles/ship.dir/lib/Asteroid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ship.dir/lib/Asteroid.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodolfo_pc\CLionProjects\ship\lib\Asteroid.cpp > CMakeFiles\ship.dir\lib\Asteroid.cpp.i
+
+CMakeFiles/ship.dir/lib/Asteroid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ship.dir/lib/Asteroid.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rodolfo_pc\CLionProjects\ship\lib\Asteroid.cpp -o CMakeFiles\ship.dir\lib\Asteroid.cpp.s
+
+CMakeFiles/ship.dir/lib/Bullet.cpp.obj: CMakeFiles/ship.dir/flags.make
+CMakeFiles/ship.dir/lib/Bullet.cpp.obj: ../lib/Bullet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ship.dir/lib/Bullet.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ship.dir\lib\Bullet.cpp.obj -c C:\Users\rodolfo_pc\CLionProjects\ship\lib\Bullet.cpp
+
+CMakeFiles/ship.dir/lib/Bullet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ship.dir/lib/Bullet.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rodolfo_pc\CLionProjects\ship\lib\Bullet.cpp > CMakeFiles\ship.dir\lib\Bullet.cpp.i
+
+CMakeFiles/ship.dir/lib/Bullet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ship.dir/lib/Bullet.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rodolfo_pc\CLionProjects\ship\lib\Bullet.cpp -o CMakeFiles\ship.dir\lib\Bullet.cpp.s
+
 # Object files for target ship
 ship_OBJECTS = \
-"CMakeFiles/ship.dir/main.cpp.obj"
+"CMakeFiles/ship.dir/main.cpp.obj" \
+"CMakeFiles/ship.dir/lib/Ship.cpp.obj" \
+"CMakeFiles/ship.dir/lib/Engine.cpp.obj" \
+"CMakeFiles/ship.dir/lib/Asteroid.cpp.obj" \
+"CMakeFiles/ship.dir/lib/Bullet.cpp.obj"
 
 # External object files for target ship
 ship_EXTERNAL_OBJECTS =
 
 ship.exe: CMakeFiles/ship.dir/main.cpp.obj
+ship.exe: CMakeFiles/ship.dir/lib/Ship.cpp.obj
+ship.exe: CMakeFiles/ship.dir/lib/Engine.cpp.obj
+ship.exe: CMakeFiles/ship.dir/lib/Asteroid.cpp.obj
+ship.exe: CMakeFiles/ship.dir/lib/Bullet.cpp.obj
 ship.exe: CMakeFiles/ship.dir/build.make
 ship.exe: CMakeFiles/ship.dir/linklibs.rsp
 ship.exe: CMakeFiles/ship.dir/objects1.rsp
 ship.exe: CMakeFiles/ship.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ship.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable ship.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ship.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

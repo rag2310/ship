@@ -80,6 +80,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Asteroid.cpp">
+			<Option target="ship"/>
+		</Unit>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Asteroid.h">
+			<Option target="ship"/>
+		</Unit>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Bullet.cpp">
+			<Option target="ship"/>
+		</Unit>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Bullet.h">
+			<Option target="ship"/>
+		</Unit>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Engine.cpp">
+			<Option target="ship"/>
+		</Unit>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Engine.h">
+			<Option target="ship"/>
+		</Unit>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Ship.cpp">
+			<Option target="ship"/>
+		</Unit>
+		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/lib/Ship.h">
+			<Option target="ship"/>
+		</Unit>
 		<Unit filename="C:/Users/rodolfo_pc/CLionProjects/ship/main.cpp">
 			<Option target="ship"/>
 		</Unit>

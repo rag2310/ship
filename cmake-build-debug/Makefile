@@ -141,6 +141,114 @@ ship/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/build
 .PHONY : ship/fast
 
+lib/Asteroid.obj: lib/Asteroid.cpp.obj
+
+.PHONY : lib/Asteroid.obj
+
+# target to build an object file
+lib/Asteroid.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Asteroid.cpp.obj
+.PHONY : lib/Asteroid.cpp.obj
+
+lib/Asteroid.i: lib/Asteroid.cpp.i
+
+.PHONY : lib/Asteroid.i
+
+# target to preprocess a source file
+lib/Asteroid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Asteroid.cpp.i
+.PHONY : lib/Asteroid.cpp.i
+
+lib/Asteroid.s: lib/Asteroid.cpp.s
+
+.PHONY : lib/Asteroid.s
+
+# target to generate assembly for a file
+lib/Asteroid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Asteroid.cpp.s
+.PHONY : lib/Asteroid.cpp.s
+
+lib/Bullet.obj: lib/Bullet.cpp.obj
+
+.PHONY : lib/Bullet.obj
+
+# target to build an object file
+lib/Bullet.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Bullet.cpp.obj
+.PHONY : lib/Bullet.cpp.obj
+
+lib/Bullet.i: lib/Bullet.cpp.i
+
+.PHONY : lib/Bullet.i
+
+# target to preprocess a source file
+lib/Bullet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Bullet.cpp.i
+.PHONY : lib/Bullet.cpp.i
+
+lib/Bullet.s: lib/Bullet.cpp.s
+
+.PHONY : lib/Bullet.s
+
+# target to generate assembly for a file
+lib/Bullet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Bullet.cpp.s
+.PHONY : lib/Bullet.cpp.s
+
+lib/Engine.obj: lib/Engine.cpp.obj
+
+.PHONY : lib/Engine.obj
+
+# target to build an object file
+lib/Engine.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Engine.cpp.obj
+.PHONY : lib/Engine.cpp.obj
+
+lib/Engine.i: lib/Engine.cpp.i
+
+.PHONY : lib/Engine.i
+
+# target to preprocess a source file
+lib/Engine.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Engine.cpp.i
+.PHONY : lib/Engine.cpp.i
+
+lib/Engine.s: lib/Engine.cpp.s
+
+.PHONY : lib/Engine.s
+
+# target to generate assembly for a file
+lib/Engine.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Engine.cpp.s
+.PHONY : lib/Engine.cpp.s
+
+lib/Ship.obj: lib/Ship.cpp.obj
+
+.PHONY : lib/Ship.obj
+
+# target to build an object file
+lib/Ship.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Ship.cpp.obj
+.PHONY : lib/Ship.cpp.obj
+
+lib/Ship.i: lib/Ship.cpp.i
+
+.PHONY : lib/Ship.i
+
+# target to preprocess a source file
+lib/Ship.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Ship.cpp.i
+.PHONY : lib/Ship.cpp.i
+
+lib/Ship.s: lib/Ship.cpp.s
+
+.PHONY : lib/Ship.s
+
+# target to generate assembly for a file
+lib/Ship.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/lib/Ship.cpp.s
+.PHONY : lib/Ship.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -177,6 +285,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ship
+	@echo ... lib/Asteroid.obj
+	@echo ... lib/Asteroid.i
+	@echo ... lib/Asteroid.s
+	@echo ... lib/Bullet.obj
+	@echo ... lib/Bullet.i
+	@echo ... lib/Bullet.s
+	@echo ... lib/Engine.obj
+	@echo ... lib/Engine.i
+	@echo ... lib/Engine.s
+	@echo ... lib/Ship.obj
+	@echo ... lib/Ship.i
+	@echo ... lib/Ship.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

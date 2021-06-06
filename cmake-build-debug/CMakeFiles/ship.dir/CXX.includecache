@@ -6,6 +6,22 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Asteroid.h
+Engine.h
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Engine.h
+
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Bullet.h
+Engine.h
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Engine.h
+
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Engine.h
+list
+-
+
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Ship.h
+Engine.h
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Engine.h
+
 C:/Users/rodolfo_pc/CLionProjects/ship/main.cpp
 cstdio
 -
@@ -15,6 +31,16 @@ conio.h
 -
 cstdlib
 -
+string
+-
 list
 -
+lib/Engine.h
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Engine.h
+lib/Ship.h
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Ship.h
+lib/Asteroid.h
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Asteroid.h
+lib/Bullet.h
+C:/Users/rodolfo_pc/CLionProjects/ship/lib/Bullet.h
 

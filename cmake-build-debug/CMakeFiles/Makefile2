@@ -92,12 +92,12 @@ clean: CMakeFiles/ship.dir/clean
 CMakeFiles/ship.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ship.dir\build.make CMakeFiles/ship.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target ship"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target ship"
 .PHONY : CMakeFiles/ship.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ship.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ship.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rodolfo_pc\CLionProjects\ship\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/ship.dir/rule
